@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/victoriaberyl_" target="blank"><img src="https://img.shields.io/twitter/follow/victoriaberyl_?logo=twitter&style=for-the-badge" alt="victoriaberyl_" /></a> </p>
 
-- 🔭 I’m currently working on **a Netflix App Clone**
+- 🔭 I’m currently working on **a Netflix Clone App**
 
 - 🌱 I’m currently learning **everything 🤣**
 
