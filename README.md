@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate **with other developers**
 
-- 🥅 2022 Goals: **Contribute more to open source projects**
+- 🥅 2023 Goals: **Contribute more to open source projects**
 - 💬 Ask me about **react, angular and django**
 
 <h3 align="left">Connect with me:</h3>
