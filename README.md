@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate **with other developers**
 
 - 🥅 2023 Goals: **Contribute more to open source projects**
-- 💬 Ask me about **Java,Django and React**
+- 💬 Ask me about **Java, Django and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
